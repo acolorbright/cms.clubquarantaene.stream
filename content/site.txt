@@ -1,0 +1,37 @@
+Title: Club Quarantäne
+
+----
+
+Color: #0038FF
+
+----
+
+Shownewsletter: true
+
+----
+
+Startday: 2020-04-24
+
+----
+
+Starttime: 22:00
+
+----
+
+Endday: 2020-04-26
+
+----
+
+Endtime: 10:00
+
+----
+
+Splashpagetext: (link: https://www.instagram.com/clubquarantaene/ text: Instagram target:_blank) • (link: https://www.youtube.com/residentadvisor text: YouTube target:_blank) • (link: https://www.residentadvisor.net/features/3640 text: SOS target:_blank)
+
+----
+
+Imprint:
+
+# Imprint
+
+Lorem ipsum

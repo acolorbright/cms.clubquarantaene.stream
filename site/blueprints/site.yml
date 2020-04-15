@@ -1,0 +1,49 @@
+title: Site
+columns:
+  main:
+    width: 3/4
+    sections:
+      fields:
+        type: fields
+        fields:
+          headline0:
+            type: headline
+            label: Settings
+          color:
+            type: color
+            width: 1/4
+          showNewsletter:
+            label: Show Newsletter
+            type: toggle
+            width: 1/4
+          headline1:
+            type: headline
+            label: Event Time
+          startDay:
+            label: Event start (day YYYY-MM-DD)
+            type: text
+            width: 1/4
+          startTime:
+            label: Event start (time)
+            type: time
+            width: 1/4
+          endDay:
+            label: Event end (day YYYY-MM-DD)
+            type: text
+            width: 1/4
+          endTime:
+            label: Event end (time)
+            type: time
+            width: 1/4
+          headline2:
+            type: headline
+            label: Splashpage Settings
+          splashpageText:
+            type: textarea
+          imprint:
+            type: textarea
+  features:
+    width: 1/4
+    sections:
+      features:
+        type: pages
