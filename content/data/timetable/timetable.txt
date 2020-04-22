@@ -45,7 +45,7 @@ Timetable:
 - 
   name: CORA
   start: 08:45
-  end: ' 10:15'
+  end: 10:15
   day: 2020-04-25
 - 
   name: COLORED CRAIG
