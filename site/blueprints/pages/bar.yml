@@ -1,0 +1,34 @@
+title: Bar
+status:
+  draft: Draft
+  unlisted: Unlisted
+options: 
+  preview: false
+sections:
+  fields:
+    type: fields
+    fields:
+      contentTitle:
+        type: text
+        label: title
+      services:
+        type: structure
+        fields:
+          title:
+            type: text
+            label: title
+          text:
+            type: textarea
+            label: Text
+          linkText:
+            type: text
+            label: Link text
+            default: 'Donate'
+            required: true
+          link:
+            type: url
+            required: true
+      backgroundVideo:
+        type: url
+        label: Background video
+

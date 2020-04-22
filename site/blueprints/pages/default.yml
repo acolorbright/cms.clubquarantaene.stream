@@ -1,4 +1,7 @@
 title: Default Page
+status:
+  draft: Draft
+  unlisted: Unlisted
 preset: page
 fields:
   text:

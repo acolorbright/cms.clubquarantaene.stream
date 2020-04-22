@@ -1,0 +1,16 @@
+title: Data
+status:
+  draft: Draft
+  unlisted: Unlisted
+sections:
+  drafts:
+    type: pages
+    status: draft
+    templates:
+      - textpage
+      - bar
+  unlisted:
+    type: pages
+    status: unlisted
+
+

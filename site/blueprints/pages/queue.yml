@@ -1,4 +1,7 @@
 title: Queue
+status:
+  draft: Draft
+  unlisted: Unlisted
 sections:
   content:
     type: fields

@@ -1,0 +1,17 @@
+title: Text page
+status:
+  draft: Draft
+  unlisted: Unlisted
+options: 
+  preview: false
+sections:
+  fields:
+    type: fields
+    fields:
+      text:
+        type: textarea
+        size: large
+      backgroundVideo:
+        type: url
+        label: Background video
+
