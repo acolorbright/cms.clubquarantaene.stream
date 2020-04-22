@@ -1,0 +1,60 @@
+Title: Queue
+
+----
+
+Mybuilder:
+
+- 
+  title: How this works
+  text: >
+    Once you’re let in, you’ll be
+    allowed to pick a color of your choice.
+    It will be your avatar and the way to
+    reach you. So chose wisely, as each
+    color exists only once. First come,
+    first serve.
+  buttonlabel: Understood
+  callbackname: ""
+  _key: info
+  _uid: info_1587537279521_106
+- 
+  title: House rules
+  text: >
+    Racism, homophobia, transphobia and
+    sexism are not acceptable in any club
+    and will not be allowed as part of this
+    virtual experience. No hate speech,
+    bullying, trolling or hostility. Please
+    respect each other.
+  buttonlabel: Understood
+  callbackname: ""
+  _key: info
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: info_1587537368870_179
+- 
+  text: Do you know who’s playing tonight?
+  buttons:
+    - 
+      buttonlabel: 'Yes'
+      buttontype: 'yes'
+    - 
+      buttonlabel: 'No'
+      buttontype: 'no'
+  callbackname: ""
+  _key: question
+  _uid: question_1587537568679_252
+- 
+  text: Do you accept cookies?
+  buttons:
+    - 
+      buttonlabel: 'Yes'
+      buttontype: 'yes'
+    - 
+      buttonlabel: 'No'
+      buttontype: 'no'
+  callbackname: acceptCookieCallback
+  _key: question
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: question_1587537741312_311

@@ -1,0 +1,58 @@
+title: Queue
+sections:
+  content:
+    type: fields
+    fields:
+      mybuilder:
+        label: Queue builder
+        type: builder
+        fieldsets:
+          info:
+            name: Info
+            label: Info
+            fields:
+              title:
+                type: text
+                label: Title
+              text:
+                type: textarea
+                label: Text
+                buttons: false
+              buttonLabel:
+                type: text
+                label: Button label
+                width: 1/4
+                default: 'Understood'
+              callbackName:
+                  type: text
+                  label: Callback name
+                  width: 1/2
+          question:
+              name: Question
+              label: Question
+              fields:
+                text:
+                  type: textarea
+                  label: Question
+                  buttons: false
+                  width: 1/2
+                buttons:
+                  type: structure
+                  required: true
+                  width: 1/4
+                  fields:
+                    buttonLabel:
+                      type: text
+                      label: Button label
+                      default: 'Yes'
+                    buttonType:
+                      label: Button type
+                      type: radio
+                      width: 1/2
+                      options:
+                        yes: 'Yes'
+                        no: 'No'
+                callbackName:
+                  type: text
+                  label: Callback name
+                  width: 1/2
