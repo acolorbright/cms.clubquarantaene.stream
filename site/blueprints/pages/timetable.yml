@@ -1,0 +1,29 @@
+title: Timetable
+status:
+  draft: Draft
+  unlisted: Unlisted
+options: 
+  preview: true
+sections:
+  fields:
+    type: fields
+    fields:
+      timetable:
+        type: structure
+        fields:
+          name:
+            type: text
+            label: Name
+          start:
+            type: text
+            label: Start
+            width: 1/3
+          end:
+            type: text
+            label: End
+            width: 1/3
+          day:
+            type: text
+            label: Day (YYYY-MM-DD)
+            width: 1/3
+

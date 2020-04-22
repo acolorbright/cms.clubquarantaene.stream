@@ -1,0 +1,133 @@
+Title: Timetable
+
+----
+
+Timetable:
+
+- 
+  name: DARWIN
+  start: 22:00
+  end: 23:30
+  day: 2020-04-24
+  duration: 01:29:18
+- 
+  name: 'ZENKER BROTHERS '
+  start: 23:30
+  end: 01:00
+  day: 2020-04-24
+  duration: 01:32:51
+- 
+  name: 'EMMA DJ & LEMAIRE'
+  start: 01:00
+  end: 02:30
+  day: 2020-04-25
+  duration: 01:30:20
+- 
+  name: FJAAK
+  start: 02:30
+  end: 04:00
+  day: 2020-04-25
+- 
+  name: AKUA0
+  start: 04:00
+  end: 05:30
+  day: 2020-04-25
+- 
+  name: 'ROOG UNIT [LUKE SLATER.  + Ø [PHASE] ]'
+  start: 05:30
+  end: 07:00
+  day: 2020-04-25
+- 
+  name: TIJANA T
+  start: 07:00
+  end: '08:45	'
+  day: 2020-04-25
+- 
+  name: CORA
+  start: 08:45
+  end: ' 10:15'
+  day: 2020-04-25
+- 
+  name: COLORED CRAIG
+  start: 10:15
+  end: 11:45
+  day: 2020-04-25
+- 
+  name: BEN UFO
+  start: 11:45
+  end: 13:15
+  day: 2020-04-25
+- 
+  name: ASH LAURYN
+  start: 13:15
+  end: 14:45
+  day: 2020-04-25
+- 
+  name: D. TIFFANY
+  start: 14:45
+  end: 16:15
+  day: 2020-04-25
+- 
+  name: BEAUTIFUL SWIMMERS
+  start: 16:15
+  end: 17:45
+  day: 2020-04-25
+- 
+  name: BYRON YEATES
+  start: 17:45
+  end: 19:00
+  day: 2020-04-25
+- 
+  name: MOMA READY
+  start: 19:00
+  end: 20:30
+  day: 2020-04-25
+- 
+  name: ND_BAUMECKER
+  start: 20:30
+  end: 22:00
+  day: 2020-04-25
+- 
+  name: DISKONNECTED
+  start: 22:00
+  end: 23:30
+  day: 2020-04-25
+- 
+  name: SLIKBACK
+  start: 23:30
+  end: 01:00
+  day: 2020-04-25
+- 
+  name: CASHU
+  start: 01:00
+  end: 02:30
+  day: 2020-04-26
+- 
+  name: EXTERMINADOR
+  start: 02:30
+  end: 04:00
+  day: 2020-04-26
+- 
+  name: ANETHA
+  start: 04:00
+  end: 05:30
+  day: 2020-04-26
+- 
+  name: DAX J
+  start: 05:30
+  end: 07:00
+  day: 2020-04-26
+- 
+  name: JULIANNA
+  start: 07:00
+  end: 08:30
+  day: 2020-04-26
+- 
+  name: JAYDA G
+  start: 08:30
+  end: 10:30
+  day: 2020-04-26
+
+----
+
+Services: 
