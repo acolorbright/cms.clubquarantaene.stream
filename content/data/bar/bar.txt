@@ -9,22 +9,24 @@ Contenttitle: No Drinks. Only Donations.
 Services:
 
 - 
-  title: Support the CLUB QUARANTÄNE Team
-  text: |
-    If you enjoy Club Quarantäne and would like to help make more editions possible, please consider supporting the team behind the project with a donation.
-    
-    Please note: All ticket donations purchased on RA will be distributed fairly to the team who have built the virtual club.
+  title: SEAWATCH
+  text: >
+    Fundraising for an organisation that
+    rescues refugees in the Mediterranean.
   linktext: Donate
   link: >
-    https://www.residentadvisor.net/events/1407334
+    https://www.betterplace.org/en/donate/platform/projects/46298-sea-watch-moonbird-hilfe-aus-der-luft-bei-suche-nach-booten-in-seenot
 - 
-  title: Movement On The Ground
+  title: >
+    ACT BLUE BAIL, MUTUAL AID, AND RACIAL
+    JUSTICE ORGANIZATION FUNDS
   text: >
-    We are a foundation responding to a
-    humanitarian crisis affecting innocent
-    people forced to flee from their homes.
+    Splits a donation to bail funds, mutual
+    aid funds, and activist organizations
+    listed on the page or allocate specific
+    amounts to individual groups.
   linktext: Donate
-  link: https://movementontheground.com/donation
+  link: https://secure.actblue.com/donate/ab_mn
 
 ----
 

@@ -26,7 +26,7 @@ ungroup group
 Dario Dammé / Multisex
 ###Creative Assistant
 
-Sam Aldridge / Multisex / Selam X
+Sam Aldridge / Multisex
 ###Visual Director & Coordinator
 
 Maximilian Kreis
@@ -87,3 +87,7 @@ c) Where applicable legal requirements are met, you can request a restriction to
 d) Where we process your Data on the basis of your consent or a contract, you have the right to transfer the Data provided by you, insofar as the rights and freedoms of others remain unaffected. Where we process your Data on the basis of a declaration of consent, you have the right to revoke such consent at any time with future effect. The processing carried out prior to a revocation remains unaffected by the revocation.
 
 e) Where you believe that we process your Data in violation of the applicable law, you have the right to file a complaint with a data protection supervisory authority at any time.
+
+----
+
+Backgroundvideo: 
