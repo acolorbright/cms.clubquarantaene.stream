@@ -59,6 +59,9 @@ Toyah Siegel
 ###Resident
 (link: https://www.instagram.com/hectoroaks/ text: Héctor Oaks target: _blank)
 
+###Facefilter
+(link: https://www.instagram.com/prsmc/?hl=de text: Stefan Damnig target: _blank)
+
 (link: https://www.residentadvisor.net/ text: Resident Advisor target: _blank)
 (link: https://www.youtube.com/ text: YouTube target: _blank)
 
