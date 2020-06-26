@@ -7,7 +7,8 @@ foreach ($data->timetable()->toStructure() as $artist) {
     'name' => $artist->name()->value(),
     'start' => $artist->start()->value(),
     'end' => $artist->end()->value(),
-    'day' => $artist->day()->value(),
+    'startDay' => $artist->startDay()->value(),
+    'endDay' => $artist->day()->value(),
     'img' => $artist->portrait()->first()->toFile()->filename()
   ]);
 }

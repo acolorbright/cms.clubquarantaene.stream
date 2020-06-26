@@ -17,15 +17,19 @@ sections:
           start:
             type: text
             label: Start
-            width: 1/3
+            width: 1/4
           end:
             type: text
             label: End
-            width: 1/3
+            width: 1/4
+          startDay:
+            type: text
+            label: Day start (YYYY-MM-DD)
+            width: 1/4
           day:
             type: text
             label: Day end (YYYY-MM-DD)
-            width: 1/3
+            width: 1/4
           portrait:
             type: files
             template: image
