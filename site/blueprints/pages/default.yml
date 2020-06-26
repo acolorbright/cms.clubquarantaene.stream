@@ -1,4 +1,6 @@
 title: Default Page
+options:
+  read: false
 status:
   draft: Draft
   unlisted: Unlisted

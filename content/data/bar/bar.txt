@@ -13,6 +13,16 @@ Services:
   text: >
     Fundraising for an organisation that
     rescues refugees in the Mediterranean.
+  buttons:
+    - 
+      linktext: Donate
+      link: >
+        https://www.betterplace.org/en/projects/36808-sea-watch-3-mission-for-sea-rescue-in-the-mediterranean-sea
+  links:
+    - 
+      linktext: Donate
+      link: >
+        https://www.betterplace.org/en/projects/36808-sea-watch-3-mission-for-sea-rescue-in-the-mediterranean-sea
   linktext: Donate
   link: >
     https://www.betterplace.org/en/donate/platform/projects/46298-sea-watch-moonbird-hilfe-aus-der-luft-bei-suche-nach-booten-in-seenot
@@ -25,8 +35,39 @@ Services:
     aid funds, and activist organizations
     listed on the page or allocate specific
     amounts to individual groups.
+  buttons:
+    - 
+      linktext: Donate
+      link: https://secure.actblue.com/donate/ab_mn
+  links:
+    - 
+      linktext: Donate
+      link: https://secure.actblue.com/donate/ab_mn
   linktext: Donate
   link: https://secure.actblue.com/donate/ab_mn
+- 
+  title: SUPPORT CLUB QUARANTÄNE
+  text: >
+    We are bunch of creative friends using
+    our skills and network to create this
+    event. Here you can help us to run
+    further partys.
+  buttons:
+    - 
+      linktext: Buy a ticket
+      link: >
+        https://www.residentadvisor.net/events/1408846
+    - 
+      linktext: Become supporter
+      link: https://steadyhq.com/en/clubquarantaene
+  links:
+    - 
+      linktext: Buy a ticket
+      link: >
+        https://www.residentadvisor.net/events/1408846
+    - 
+      linktext: Become Supporter
+      link: https://steadyhq.com/en/clubquarantaene
 
 ----
 

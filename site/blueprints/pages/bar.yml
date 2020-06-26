@@ -20,14 +20,18 @@ sections:
           text:
             type: textarea
             label: Text
-          linkText:
-            type: text
-            label: Link text
-            default: 'Donate'
-            required: true
-          link:
-            type: url
-            required: true
+          buttons:
+            label: Links 
+            type: structure
+            fields:
+              linkText:
+                type: text
+                label: Link text
+                default: 'Donate'
+                required: true
+              link:
+                type: url
+                required: true
       backgroundVideo:
         type: url
         label: Background video

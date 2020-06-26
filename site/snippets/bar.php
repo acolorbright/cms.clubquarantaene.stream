@@ -3,11 +3,19 @@
 $services = [];
 
 foreach ($data->services()->toStructure() as $service) {
+
+  $linksArr = [];
+  foreach ($service->buttons()->toStructure() as $link) {
+    array_push($linksArr, (object)[
+      'linkText' => $link->linkText()->value(),
+      'link' => $link->link()->value()
+    ]);
+  }
+
   array_push($services, (object)[
     'title' => $service->title()->value(),
     'text' => $service->text()->kt()->value(),
-    'linkText' => $service->linkText()->value(),
-    'link' => $service->link()->value()
+    'links' => $linksArr
   ]);
 }
 

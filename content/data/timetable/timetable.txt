@@ -8,6 +8,7 @@ Timetable:
   name: I$A
   start: 22:00
   end: 23:30
+  startday: 2020-06-26
   day: 2020-06-26
   portrait:
     - cq_isa.jpg
@@ -16,6 +17,7 @@ Timetable:
   name: Stenny
   start: 23:30
   end: 01:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_stenny.jpg
@@ -23,6 +25,7 @@ Timetable:
   name: Lucy
   start: 01:00
   end: 02:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_lucy.jpg
@@ -30,6 +33,7 @@ Timetable:
   name: 'KI/KI '
   start: 02:30
   end: 04:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_ki_ki.jpg
@@ -37,6 +41,7 @@ Timetable:
   name: 'Somewhen '
   start: 04:00
   end: 05:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_somewhen.jpg
@@ -44,6 +49,7 @@ Timetable:
   name: Peach
   start: 05:30
   end: 07:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_peach.jpg
@@ -51,6 +57,7 @@ Timetable:
   name: THC
   start: 07:00
   end: 08:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_thc.jpg
@@ -58,6 +65,7 @@ Timetable:
   name: Analog Soul
   start: 08:30
   end: 10:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_analogsoul.jpg
@@ -65,6 +73,7 @@ Timetable:
   name: DEBONAIR
   start: 10:00
   end: 11:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_debonair.jpg
@@ -72,6 +81,7 @@ Timetable:
   name: 'Bergsonist '
   start: 11:30
   end: 13:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_bergsonist.jpg
@@ -79,6 +89,7 @@ Timetable:
   name: Upsammy B2B Oceanic
   start: 13:00
   end: 14:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_upsammy_b2b_oceanic.jpg
@@ -86,6 +97,7 @@ Timetable:
   name: Russell E.L. Butler
   start: 14:30
   end: 16:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_russel_el_butler.jpg
@@ -93,6 +105,7 @@ Timetable:
   name: Hodge
   start: 16:00
   end: 17:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_hodge.jpg
@@ -100,6 +113,7 @@ Timetable:
   name: Dixon
   start: 17:30
   end: 19:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_dixon.jpg
@@ -107,6 +121,7 @@ Timetable:
   name: rRoxymore
   start: 19:30
   end: 20:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_rroxymore.jpg
@@ -114,6 +129,7 @@ Timetable:
   name: Nazira
   start: 20:30
   end: 22:00
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_nazira.jpg
@@ -121,6 +137,7 @@ Timetable:
   name: Freddy K
   start: 22:30
   end: 23:30
+  startday: ""
   day: 2020-06-27
   portrait:
     - cq_freddy_k.jpg
@@ -128,6 +145,7 @@ Timetable:
   name: Rifts
   start: 23:30
   end: 01:00
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_rifts.jpg
@@ -135,6 +153,7 @@ Timetable:
   name: Rødhåd
   start: 01:00
   end: 02:30
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_rodhad.jpg
@@ -142,6 +161,7 @@ Timetable:
   name: Héctor Oaks
   start: 02:30
   end: 04:00
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_hector_oaks.jpg
@@ -149,6 +169,7 @@ Timetable:
   name: Aurora Halal
   start: 04:00
   end: 05:30
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_aurora_halal.jpg
@@ -156,6 +177,7 @@ Timetable:
   name: Paál
   start: 05:30
   end: 07:00
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_paal.jpg
@@ -163,6 +185,7 @@ Timetable:
   name: IMOGEN
   start: 07:00
   end: 08:30
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_imogen.jpg
@@ -170,6 +193,7 @@ Timetable:
   name: Palms Trax
   start: 08:30
   end: 11:00
+  startday: ""
   day: 2020-06-28
   portrait:
     - cq_palms_trax.jpg
