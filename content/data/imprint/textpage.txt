@@ -14,11 +14,14 @@ Urbanstr. 115
 
 ##Club Quarantäne brought to you by
 
-###Concept & Project Management
+###Concept / Project Management / Booking
 (link: http://www.invisiblehand.agency/#/ text: Invisible Hand target: _blank)
 
+###Booking
+Ryan Miller
+
 ###Communication
-(link: https://noservice.today/ text: No Service 24/7 target: _blank)
+Christian Murphy
 
 ###Webdesign & Development
 (link: https://ungroup.group/ text: ungroup group target: _blank)
